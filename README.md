@@ -1,7 +1,7 @@
 # Hack Assembler
 Simple assembler for Hack Assembly
 
-#Instructions
+# Instructions
 - Compile with Visual Studio
 - Go to file path of exe file and enter "HackAssembler.exe [Program File Name]"
 - In same folder, you should find "Program.hack" file that should contain binary usable by the hack computer
